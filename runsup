@@ -1,0 +1,3 @@
+#!/bin/bash
+#exec -a folder2flickr nohup python /home/pi/folders2flickr/uploadr.py
+exec -a folder2flickr nohup /home/pi/folders2flickr-master/folders2flickr &
